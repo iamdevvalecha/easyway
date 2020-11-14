@@ -1,6 +1,9 @@
 # what is API ?
 An `Application Programming Interface` is a computing interface which defines interactions between multiple software intermediaries. It defines the kinds of calls or requests that can be made, how to make them, the data formats that should be used, the conventions to follow, etc.
 
+
+![image](https://user-images.githubusercontent.com/71969867/99148925-b48a6380-26b0-11eb-971c-45604b856de9.png)
+
 IN SIMPLE WAY IT'S JUST CODE WRITTEN BY SOMEBODY ELSE. AND HE/SHE IS LEGALLY GIVING ME PERMISSION USE IT. 
 
 --- for example 
